@@ -19,7 +19,18 @@ Here's a walkthrough of implemented user stories:
 
 <img src='<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/f4c69daefbe04d1f95158a981afa4e1b?sid=5091befb-1770-49eb-85ae-4fd6c296633b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+##THUMBNAIL
 
+<div>
+    <a href="https://www.loom.com/share/f4c69daefbe04d1f95158a981afa4e1b">
+      <p>Xcode - iOS101-Prework — Main.storyboard - 27 August 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/f4c69daefbe04d1f95158a981afa4e1b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f4c69daefbe04d1f95158a981afa4e1b-with-play.gif">
+    </a>
+  </div>
+  
+  
 GIF created with **Loom**
 
 
